@@ -1,4 +1,9 @@
 :root{
     --branco-principal:#D9D9D9;
-    --cinza-secundário:
+    --roxo-secundário:#BC6BE2;
+    --botao-rosa:#F693E1;
+    --cor-de-fundo:#FFFFFF;
+}
+body{ 
+    background-color: var(cor-de-fundo);
 }
